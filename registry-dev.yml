@@ -8,6 +8,7 @@ spring:
     username: guest
     password: guest
     host: 47.106.95.116
+    port: 15672
 eureka:
   client:
     fetch-registry: false
